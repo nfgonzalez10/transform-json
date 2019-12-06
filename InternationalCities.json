@@ -1,0 +1,1037 @@
+[
+  {
+    "department": "ALEMANIA",
+    "ciud_dpto": 903,
+    "ciud_ciud": 90301,
+    "name": "BERLIN",
+    "ciud_cias": "",
+    "id": 90301,
+    "ciud_secu": 90301
+  },
+  {
+    "department": "ALEMANIA",
+    "ciud_dpto": 903,
+    "ciud_ciud": 90302,
+    "name": "HAMBURG NORT",
+    "ciud_cias": "",
+    "id": 90302,
+    "ciud_secu": 90302
+  },
+  {
+    "department": "ALEMANIA",
+    "ciud_dpto": 903,
+    "ciud_ciud": 90303,
+    "name": "HAMBURG MITTE",
+    "ciud_cias": "",
+    "id": 90303,
+    "ciud_secu": 90303
+  },
+  {
+    "department": "ALEMANIA",
+    "ciud_dpto": 903,
+    "ciud_ciud": 90304,
+    "name": "NUREMBERG",
+    "ciud_cias": "",
+    "id": 90304,
+    "ciud_secu": 90304
+  },
+  {
+    "department": "ALEMANIA",
+    "ciud_dpto": 903,
+    "ciud_ciud": 90305,
+    "name": "BREMEN",
+    "ciud_cias": "",
+    "id": 90305,
+    "ciud_secu": 90305
+  },
+  {
+    "department": "ALEMANIA",
+    "ciud_dpto": 903,
+    "ciud_ciud": 90306,
+    "name": "SCHOENEFELD",
+    "ciud_cias": "",
+    "id": 90306,
+    "ciud_secu": 90306
+  },
+  {
+    "department": "ARGENTINA",
+    "ciud_dpto": 902,
+    "ciud_ciud": 90201,
+    "name": "BUENOS AIRES",
+    "ciud_cias": "",
+    "id": 90201,
+    "ciud_secu": 90201
+  },
+  {
+    "department": "AUSTRIA",
+    "ciud_dpto": 904,
+    "ciud_ciud": 90401,
+    "name": "VIENA",
+    "ciud_cias": "",
+    "id": 90401,
+    "ciud_secu": 90401
+  },
+  {
+    "department": "BÉLGICA",
+    "ciud_dpto": 905,
+    "ciud_ciud": 90501,
+    "name": "DIEST",
+    "ciud_cias": "",
+    "id": 90501,
+    "ciud_secu": 90501
+  },
+  {
+    "department": "BÉLGICA",
+    "ciud_dpto": 905,
+    "ciud_ciud": 90502,
+    "name": "BRUSSELS",
+    "ciud_cias": "",
+    "id": 90502,
+    "ciud_secu": 90502
+  },
+  {
+    "department": "BOLIVIA",
+    "ciud_dpto": 905,
+    "ciud_ciud": 90503,
+    "name": "LA PAZ",
+    "ciud_cias": "",
+    "id": 90503,
+    "ciud_secu": 90503
+  },
+  {
+    "department": "BRASIL",
+    "ciud_dpto": 937,
+    "ciud_ciud": 93701,
+    "name": "MACAE",
+    "ciud_cias": "",
+    "id": 93701,
+    "ciud_secu": 93701
+  },
+  {
+    "department": "BRASIL",
+    "ciud_dpto": 937,
+    "ciud_ciud": 93702,
+    "name": "RIO DE JANEIRO",
+    "ciud_cias": "",
+    "id": 93702,
+    "ciud_secu": 93702
+  },
+  {
+    "department": "BRASIL",
+    "ciud_dpto": 937,
+    "ciud_ciud": 93703,
+    "name": "SAO PABLO",
+    "ciud_cias": "",
+    "id": 93703,
+    "ciud_secu": 93703
+  },
+  {
+    "department": "CANADÁ",
+    "ciud_dpto": 907,
+    "ciud_ciud": 90701,
+    "name": "VANCOUVER",
+    "ciud_cias": "",
+    "id": 90701,
+    "ciud_secu": 90701
+  },
+  {
+    "department": "CANADÁ",
+    "ciud_dpto": 907,
+    "ciud_ciud": 90702,
+    "name": "MONTREAL",
+    "ciud_cias": "",
+    "id": 90702,
+    "ciud_secu": 90702
+  },
+  {
+    "department": "CANADÁ",
+    "ciud_dpto": 907,
+    "ciud_ciud": 90703,
+    "name": "TORONTO",
+    "ciud_cias": "",
+    "id": 90703,
+    "ciud_secu": 90703
+  },
+  {
+    "department": "COSTA RICA",
+    "ciud_dpto": 910,
+    "ciud_ciud": 91003,
+    "name": "SAN JOSE",
+    "ciud_cias": "",
+    "id": 91003,
+    "ciud_secu": 91003
+  },
+  {
+    "department": "COSTA RICA",
+    "ciud_dpto": 910,
+    "ciud_ciud": 91002,
+    "name": "PROVINCIA",
+    "ciud_cias": "",
+    "id": 91002,
+    "ciud_secu": 91002
+  },
+  {
+    "department": "CUBA",
+    "ciud_dpto": 911,
+    "ciud_ciud": 91101,
+    "name": "CIENFUEGOS",
+    "ciud_cias": "",
+    "id": 91101,
+    "ciud_secu": 91101
+  },
+  {
+    "department": "CUBA",
+    "ciud_dpto": 911,
+    "ciud_ciud": 91102,
+    "name": "BOLONDRON",
+    "ciud_cias": "",
+    "id": 91102,
+    "ciud_secu": 91102
+  },
+  {
+    "department": "CHILE",
+    "ciud_dpto": 909,
+    "ciud_ciud": 90902,
+    "name": "VALDIVIA",
+    "ciud_cias": "",
+    "id": 90902,
+    "ciud_secu": 90902
+  },
+  {
+    "department": "CHINA",
+    "ciud_dpto": 908,
+    "ciud_ciud": 90801,
+    "name": "TIANJIN",
+    "ciud_cias": "",
+    "id": 90801,
+    "ciud_secu": 90801
+  },
+  {
+    "department": "ECUADOR",
+    "ciud_dpto": 913,
+    "ciud_ciud": 91301,
+    "name": "QUITO",
+    "ciud_cias": "",
+    "id": 91301,
+    "ciud_secu": 91301
+  },
+  {
+    "department": "ECUADOR",
+    "ciud_dpto": 913,
+    "ciud_ciud": 91302,
+    "name": "QUEVEDO LOS RIOS",
+    "ciud_cias": "",
+    "id": 91302,
+    "ciud_secu": 91302
+  },
+  {
+    "department": "EMIRATOS ÁRABES UNIDOS",
+    "ciud_dpto": 912,
+    "ciud_ciud": 91201,
+    "name": "DUBAI",
+    "ciud_cias": "",
+    "id": 91201,
+    "ciud_secu": 91201
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91501,
+    "name": "BARCELONA",
+    "ciud_cias": "",
+    "id": 91501,
+    "ciud_secu": 91501
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91502,
+    "name": "ALBACETE",
+    "ciud_cias": "",
+    "id": 91502,
+    "ciud_secu": 91502
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91503,
+    "name": "LEON",
+    "ciud_cias": "",
+    "id": 91503,
+    "ciud_secu": 91503
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91504,
+    "name": "SALAMANCA",
+    "ciud_cias": "",
+    "id": 91504,
+    "ciud_secu": 91504
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91506,
+    "name": "VALENCIA",
+    "ciud_cias": "",
+    "id": 91506,
+    "ciud_secu": 91506
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91507,
+    "name": "SAN JUAN",
+    "ciud_cias": "",
+    "id": 91507,
+    "ciud_secu": 91507
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91508,
+    "name": "TOLOSA",
+    "ciud_cias": "",
+    "id": 91508,
+    "ciud_secu": 91508
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91509,
+    "name": "LA RIOJA",
+    "ciud_cias": "",
+    "id": 91509,
+    "ciud_secu": 91509
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91510,
+    "name": "CADIZ",
+    "ciud_cias": "",
+    "id": 91510,
+    "ciud_secu": 91510
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91511,
+    "name": "BELORADO",
+    "ciud_cias": "",
+    "id": 91511,
+    "ciud_secu": 91511
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91512,
+    "name": "MADRID",
+    "ciud_cias": "",
+    "id": 91512,
+    "ciud_secu": 91512
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91513,
+    "name": "MALAGA",
+    "ciud_cias": "",
+    "id": 91513,
+    "ciud_secu": 91513
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91514,
+    "name": "ALCOBENDAS",
+    "ciud_cias": "",
+    "id": 91514,
+    "ciud_secu": 91514
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91515,
+    "name": "GUADALIX DE LA SIERRA",
+    "ciud_cias": "",
+    "id": 91515,
+    "ciud_secu": 91515
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91516,
+    "name": "TORRE DE LA VEGA",
+    "ciud_cias": "",
+    "id": 91516,
+    "ciud_secu": 91516
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91517,
+    "name": "MARBELLA",
+    "ciud_cias": "",
+    "id": 91517,
+    "ciud_secu": 91517
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91518,
+    "name": "ISLAS DEL HIERRO",
+    "ciud_cias": "",
+    "id": 91518,
+    "ciud_secu": 91518
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91519,
+    "name": "VICTORIA",
+    "ciud_cias": "",
+    "id": 91519,
+    "ciud_secu": 91519
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91520,
+    "name": "TENERIFE",
+    "ciud_cias": "",
+    "id": 91520,
+    "ciud_secu": 91520
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91521,
+    "name": "BILBAO",
+    "ciud_cias": "",
+    "id": 91521,
+    "ciud_secu": 91521
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91522,
+    "name": "ZARAGOZA",
+    "ciud_cias": "",
+    "id": 91522,
+    "ciud_secu": 91522
+  },
+  {
+    "department": "ESPAÑA",
+    "ciud_dpto": 915,
+    "ciud_ciud": 91524,
+    "name": "LOGRONO",
+    "ciud_cias": "",
+    "id": 91524,
+    "ciud_secu": 91524
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91601,
+    "name": "MIAMI",
+    "ciud_cias": "",
+    "id": 91601,
+    "ciud_secu": 91601
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91602,
+    "name": "NEW YORK",
+    "ciud_cias": "",
+    "id": 91602,
+    "ciud_secu": 91602
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91603,
+    "name": "ST LUICIE",
+    "ciud_cias": "",
+    "id": 91603,
+    "ciud_secu": 91603
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91604,
+    "name": "HIALEAH",
+    "ciud_cias": "",
+    "id": 91604,
+    "ciud_secu": 91604
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91605,
+    "name": "ORLANDO",
+    "ciud_cias": "",
+    "id": 91605,
+    "ciud_secu": 91605
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91606,
+    "name": "CALIFORNIA",
+    "ciud_cias": "",
+    "id": 91606,
+    "ciud_secu": 91606
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91607,
+    "name": "PALM BEACH",
+    "ciud_cias": "",
+    "id": 91607,
+    "ciud_secu": 91607
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91608,
+    "name": "DORAL",
+    "ciud_cias": "",
+    "id": 91608,
+    "ciud_secu": 91608
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91609,
+    "name": "PLANTATION",
+    "ciud_cias": "",
+    "id": 91609,
+    "ciud_secu": 91609
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91610,
+    "name": "TAMPA",
+    "ciud_cias": "",
+    "id": 91610,
+    "ciud_secu": 91610
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91611,
+    "name": "BOCA RATON",
+    "ciud_cias": "",
+    "id": 91611,
+    "ciud_secu": 91611
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91612,
+    "name": "DRIVE",
+    "ciud_cias": "",
+    "id": 91612,
+    "ciud_secu": 91612
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91613,
+    "name": "LONGWOOD",
+    "ciud_cias": "",
+    "id": 91613,
+    "ciud_secu": 91613
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91614,
+    "name": "LAKE MARY",
+    "ciud_cias": "",
+    "id": 91614,
+    "ciud_secu": 91614
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91615,
+    "name": "WINTER PARK",
+    "ciud_cias": "",
+    "id": 91615,
+    "ciud_secu": 91615
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91616,
+    "name": "PORT ST LUCIE",
+    "ciud_cias": "",
+    "id": 91616,
+    "ciud_secu": 91616
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91617,
+    "name": "PEMBRUKE PINES",
+    "ciud_cias": "",
+    "id": 91617,
+    "ciud_secu": 91617
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91618,
+    "name": "CORAL SPRINGS",
+    "ciud_cias": "",
+    "id": 91618,
+    "ciud_secu": 91618
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91619,
+    "name": "LAKE WORTH",
+    "ciud_cias": "",
+    "id": 91619,
+    "ciud_secu": 91619
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91620,
+    "name": "MARGATE",
+    "ciud_cias": "",
+    "id": 91620,
+    "ciud_secu": 91620
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91621,
+    "name": "SARASOTA",
+    "ciud_cias": "",
+    "id": 91621,
+    "ciud_secu": 91621
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91622,
+    "name": "SPRING HILL",
+    "ciud_cias": "",
+    "id": 91622,
+    "ciud_secu": 91622
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91623,
+    "name": "OCALA",
+    "ciud_cias": "",
+    "id": 91623,
+    "ciud_secu": 91623
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91624,
+    "name": "SUNRISE",
+    "ciud_cias": "",
+    "id": 91624,
+    "ciud_secu": 91624
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91625,
+    "name": "WESTON",
+    "ciud_cias": "",
+    "id": 91625,
+    "ciud_secu": 91625
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91626,
+    "name": "CAPE CORAL",
+    "ciud_cias": "",
+    "id": 91626,
+    "ciud_secu": 91626
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91627,
+    "name": "COCONUT CREEK",
+    "ciud_cias": "",
+    "id": 91627,
+    "ciud_secu": 91627
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91628,
+    "name": "PONPANO BEACH",
+    "ciud_cias": "",
+    "id": 91628,
+    "ciud_secu": 91628
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91629,
+    "name": "FORT LAUDERDALE",
+    "ciud_cias": "",
+    "id": 91629,
+    "ciud_secu": 91629
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91630,
+    "name": "HALLANDALE",
+    "ciud_cias": "",
+    "id": 91630,
+    "ciud_secu": 91630
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91631,
+    "name": "PENBROKE PINESFL",
+    "ciud_cias": "",
+    "id": 91631,
+    "ciud_secu": 91631
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91632,
+    "name": "JACKSON VILLE",
+    "ciud_cias": "",
+    "id": 91632,
+    "ciud_secu": 91632
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91633,
+    "name": "NEW YORK",
+    "ciud_cias": "",
+    "id": 91633,
+    "ciud_secu": 91633
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91634,
+    "name": "NEW JERSEY",
+    "ciud_cias": "",
+    "id": 91634,
+    "ciud_secu": 91634
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91635,
+    "name": "FLUSHING",
+    "ciud_cias": "",
+    "id": 91635,
+    "ciud_secu": 91635
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91636,
+    "name": "KEW GARDENS",
+    "ciud_cias": "",
+    "id": 91636,
+    "ciud_secu": 91636
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91637,
+    "name": "BRENTWOOD",
+    "ciud_cias": "",
+    "id": 91637,
+    "ciud_secu": 91637
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91638,
+    "name": "QUEENS",
+    "ciud_cias": "",
+    "id": 91638,
+    "ciud_secu": 91638
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91639,
+    "name": "SUNNYSIDE",
+    "ciud_cias": "",
+    "id": 91639,
+    "ciud_secu": 91639
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91640,
+    "name": "STATEN ISLAND",
+    "ciud_cias": "",
+    "id": 91640,
+    "ciud_secu": 91640
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91641,
+    "name": "FREEPORT",
+    "ciud_cias": "",
+    "id": 91641,
+    "ciud_secu": 91641
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91642,
+    "name": "EAST ELMHURST",
+    "ciud_cias": "",
+    "id": 91642,
+    "ciud_secu": 91642
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91643,
+    "name": "BROOKLYN",
+    "ciud_cias": "",
+    "id": 91643,
+    "ciud_secu": 91643
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91644,
+    "name": "BELLE HARBOR",
+    "ciud_cias": "",
+    "id": 91644,
+    "ciud_secu": 91644
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91645,
+    "name": "MONTAUK",
+    "ciud_cias": "",
+    "id": 91645,
+    "ciud_secu": 91645
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91646,
+    "name": "WHITE PLAINS",
+    "ciud_cias": "",
+    "id": 91646,
+    "ciud_secu": 91646
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91647,
+    "name": "ARMONK",
+    "ciud_cias": "",
+    "id": 91647,
+    "ciud_secu": 91647
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91648,
+    "name": "CHAPPAGUA",
+    "ciud_cias": "",
+    "id": 91648,
+    "ciud_secu": 91648
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91649,
+    "name": "FOREST HILLS",
+    "ciud_cias": "",
+    "id": 91649,
+    "ciud_secu": 91649
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91650,
+    "name": "BREWSTER",
+    "ciud_cias": "",
+    "id": 91650,
+    "ciud_secu": 91650
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91651,
+    "name": "REDDING",
+    "ciud_cias": "",
+    "id": 91651,
+    "ciud_secu": 91651
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91652,
+    "name": "BERKELEY",
+    "ciud_cias": "",
+    "id": 91652,
+    "ciud_secu": 91652
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91653,
+    "name": "LA MIRADA",
+    "ciud_cias": "",
+    "id": 91653,
+    "ciud_secu": 91653
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91654,
+    "name": "PLACENTIA",
+    "ciud_cias": "",
+    "id": 91654,
+    "ciud_secu": 91654
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91655,
+    "name": "ORANGEWOOD",
+    "ciud_cias": "",
+    "id": 91655,
+    "ciud_secu": 91655
+  },
+  {
+    "department": 169,
+    "ciud_dpto": 19,
+    "ciud_ciud": 300,
+    "name": "GUACHENE",
+    "ciud_cias": "",
+    "id": 19300,
+    "ciud_secu": 19300
+  },
+  {
+    "department": 169,
+    "ciud_dpto": 13,
+    "ciud_ciud": 490,
+    "name": "NOROSI",
+    "ciud_cias": "",
+    "id": 13490,
+    "ciud_secu": 13490
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93611,
+    "name": "CARACAS",
+    "ciud_cias": "",
+    "id": 93611,
+    "ciud_secu": 93611
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "ciud_dpto": 916,
+    "ciud_ciud": 91656,
+    "name": "SANTA BARBARA",
+    "ciud_cias": "",
+    "id": 91656,
+    "ciud_secu": 91656
+  },
+  {
+    "department": 764,
+    "ciud_dpto": 935,
+    "ciud_ciud": 93501,
+    "name": "RIGA",
+    "ciud_cias": "",
+    "id": 93501,
+    "ciud_secu": 93501
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93601,
+    "name": "MARACAIBO",
+    "ciud_cias": "",
+    "id": 93601,
+    "ciud_secu": 93601
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93603,
+    "name": "LOS TEQUES",
+    "ciud_cias": "",
+    "id": 93603,
+    "ciud_secu": 93603
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93604,
+    "name": "VALENCIA",
+    "ciud_cias": "",
+    "id": 93604,
+    "ciud_secu": 93604
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93606,
+    "name": "SAN CRISTOBAL",
+    "ciud_cias": "",
+    "id": 93606,
+    "ciud_secu": 93606
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93607,
+    "name": "SAN ANTONIO",
+    "ciud_cias": "",
+    "id": 93607,
+    "ciud_secu": 93607
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93608,
+    "name": "VILLA DE CURA",
+    "ciud_cias": "",
+    "id": 93608,
+    "ciud_secu": 93608
+  },
+  {
+    "department": "VENEZUELA",
+    "ciud_dpto": 936,
+    "ciud_ciud": 93609,
+    "name": "MERIDA",
+    "ciud_cias": "",
+    "id": 93609,
+    "ciud_secu": 93609
+  }
+]

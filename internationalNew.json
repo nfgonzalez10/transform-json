@@ -1,0 +1,836 @@
+[
+  { "department": "ALEMANIA", "name": "BERLIN", "id": "90301" },
+  {
+    "department": "ALEMANIA",
+    "name": "HAMBURG NORT",
+    "id": "90302"
+  },
+  {
+    "department": "ALEMANIA",
+    "name": "HAMBURG MITTE",
+    "id": "90303"
+  },
+  { "department": "ALEMANIA", "name": "NUREMBERG", "id": "90304" },
+  { "department": "ALEMANIA", "name": "BREMEN", "id": "90305" },
+  {
+    "department": "ALEMANIA",
+    "name": "SCHOENEFELD",
+    "id": "90306"
+  },
+  {
+    "department": "ARGENTINA",
+    "name": "BUENOS AIRES",
+    "id": "90201"
+  },
+  { "department": "AUSTRIA", "name": "VIENA", "id": "90401" },
+  { "department": "BÉLGICA", "name": "DIEST", "id": "90501" },
+  { "department": "BÉLGICA", "name": "BRUSSELS", "id": "90502" },
+  { "department": "BOLIVIA", "name": "LA PAZ", "id": "90503" },
+  { "department": "BRASIL", "name": "MACAE", "id": "93701" },
+  {
+    "department": "BRASIL",
+    "name": "RIO DE JANEIRO",
+    "id": "93702"
+  },
+  { "department": "BRASIL", "name": "SAO PABLO", "id": "93703" },
+  { "department": "CANADÁ", "name": "VANCOUVER", "id": "90701" },
+  { "department": "CANADÁ", "name": "MONTREAL", "id": "90702" },
+  { "department": "CANADÁ", "name": "TORONTO", "id": "90703" },
+  {
+    "department": "COSTA RICA",
+    "name": "SAN JOSE",
+    "id": "91003"
+  },
+  {
+    "department": "COSTA RICA",
+    "name": "PROVINCIA",
+    "id": "91002"
+  },
+  { "department": 198, "name": "NOVA", "id": "93201" },
+  { "department": "CUBA", "name": "CIENFUEGOS", "id": "91101" },
+  { "department": "CUBA", "name": "BOLONDRON", "id": "91102" },
+  { "department": "CHILE", "name": "VALDIVIA", "id": "90902" },
+  { "department": "CHINA", "name": "TIANJIN", "id": "90801" },
+  { "department": "ECUADOR", "name": "QUITO", "id": "91301" },
+  {
+    "department": "ECUADOR",
+    "name": "QUEVEDO LOS RIOS",
+    "id": "91302"
+  },
+  { "department": 240, "name": "URBANO", "id": "91401" },
+  {
+    "department": "EMIRATOS ÁRABES UNIDOS",
+    "name": "DUBAI",
+    "id": "91201"
+  },
+  { "department": "ESPAÑA", "name": "BARCELONA", "id": "91501" },
+  { "department": "ESPAÑA", "name": "ALBACETE", "id": "91502" },
+  { "department": "ESPAÑA", "name": "LEON", "id": "91503" },
+  { "department": "ESPAÑA", "name": "SALAMANCA", "id": "91504" },
+  { "department": "ESPAÑA", "name": "ESPANA", "id": "91505" },
+  { "department": "ESPAÑA", "name": "VALENCIA", "id": "91506" },
+  { "department": "ESPAÑA", "name": "SAN JUAN", "id": "91507" },
+  { "department": "ESPAÑA", "name": "TOLOSA", "id": "91508" },
+  { "department": "ESPAÑA", "name": "LA RIOJA", "id": "91509" },
+  { "department": "ESPAÑA", "name": "CADIZ", "id": "91510" },
+  { "department": "ESPAÑA", "name": "BELORADO", "id": "91511" },
+  { "department": "ESPAÑA", "name": "MADRID", "id": "91512" },
+  { "department": "ESPAÑA", "name": "MALAGA", "id": "91513" },
+  { "department": "ESPAÑA", "name": "ALCOBENDAS", "id": "91514" },
+  {
+    "department": "ESPAÑA",
+    "name": "GUADALIX DE LA SIERRA",
+    "id": "91515"
+  },
+  {
+    "department": "ESPAÑA",
+    "name": "TORRE DE LA VEGA",
+    "id": "91516"
+  },
+  { "department": "ESPAÑA", "name": "MARBELLA", "id": "91517" },
+  {
+    "department": "ESPAÑA",
+    "name": "ISLAS DEL HIERRO",
+    "id": "91518"
+  },
+  { "department": "ESPAÑA", "name": "VICTORIA", "id": "91519" },
+  { "department": "ESPAÑA", "name": "TENERIFE", "id": "91520" },
+  { "department": "ESPAÑA", "name": "BILBAO", "id": "91521" },
+  { "department": "ESPAÑA", "name": "ZARAGOZA", "id": "91522" },
+  { "department": "ESPAÑA", "name": "ZARAGOZA", "id": "91523" },
+  { "department": "ESPAÑA", "name": "LOGRONO", "id": "91524" },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MIAMI",
+    "id": "91601"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "NEW YORK",
+    "id": "91602"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ST LUICIE",
+    "id": "91603"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "HIALEAH",
+    "id": "91604"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ORLANDO",
+    "id": "91605"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CALIFORNIA",
+    "id": "91606"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PALM BEACH",
+    "id": "91607"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DORAL",
+    "id": "91608"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PLANTATION",
+    "id": "91609"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "TAMPA",
+    "id": "91610"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BOCA RATON",
+    "id": "91611"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DRIVE",
+    "id": "91612"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "LONGWOOD",
+    "id": "91613"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "LAKE MARY",
+    "id": "91614"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "WINTER PARK",
+    "id": "91615"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PORT ST LUCIE",
+    "id": "91616"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PEMBRUKE PINES",
+    "id": "91617"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CORAL SPRINGS",
+    "id": "91618"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "LAKE WORTH",
+    "id": "91619"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MARGATE",
+    "id": "91620"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SARASOTA",
+    "id": "91621"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SPRING HILL",
+    "id": "91622"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "OCALA",
+    "id": "91623"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SUNRISE",
+    "id": "91624"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "WESTON",
+    "id": "91625"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CAPE CORAL",
+    "id": "91626"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "COCONUT CREEK",
+    "id": "91627"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PONPANO BEACH",
+    "id": "91628"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "FORT LAUDERDALE",
+    "id": "91629"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "HALLANDALE",
+    "id": "91630"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PENBROKE PINESFL",
+    "id": "91631"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "JACKSON VILLE",
+    "id": "91632"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "NEW YORK",
+    "id": "91633"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "NEW JERSEY",
+    "id": "91634"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "FLUSHING",
+    "id": "91635"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "KEW GARDENS",
+    "id": "91636"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BRENTWOOD",
+    "id": "91637"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "QUEENS",
+    "id": "91638"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SUNNYSIDE",
+    "id": "91639"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "STATEN ISLAND",
+    "id": "91640"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "FREEPORT",
+    "id": "91641"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "EAST ELMHURST",
+    "id": "91642"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BROOKLYN",
+    "id": "91643"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BELLE HARBOR",
+    "id": "91644"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MONTAUK",
+    "id": "91645"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "WHITE PLAINS",
+    "id": "91646"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ARMONK",
+    "id": "91647"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CHAPPAGUA",
+    "id": "91648"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "FOREST HILLS",
+    "id": "91649"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BREWSTER",
+    "id": "91650"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "REDDING",
+    "id": "91651"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BERKELEY",
+    "id": "91652"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "LA MIRADA",
+    "id": "91653"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PLACENTIA",
+    "id": "91654"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ORANGEWOOD",
+    "id": "91655"
+  },
+  { "department": "VENEZUELA", "name": "CARACAS", "id": "93611" },
+  { "department": 242, "name": "SAN SALVADOR", "id": "9191" },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SANTA BARBARA",
+    "id": "91656"
+  },
+  { "department": 764, "name": "RIGA", "id": "93501" },
+  {
+    "department": "VENEZUELA",
+    "name": "MARACAIBO",
+    "id": "93601"
+  },
+  { "department": "VENEZUELA", "name": "CARACAS", "id": "93602" },
+  {
+    "department": "VENEZUELA",
+    "name": "LOS TEQUES",
+    "id": "93603"
+  },
+  { "department": "VENEZUELA", "name": "VALENCIA", "id": "93604" },
+  {
+    "department": "VENEZUELA",
+    "name": "SAN CRISTOBAL",
+    "id": "93606"
+  },
+  {
+    "department": "VENEZUELA",
+    "name": "SAN ANTONIO",
+    "id": "93607"
+  },
+  {
+    "department": "VENEZUELA",
+    "name": "VILLA DE CURA",
+    "id": "93608"
+  },
+  { "department": "VENEZUELA", "name": "MERIDA", "id": "93609" },
+  { "department": "VENEZUELA", "name": "EL TIGRE", "id": "93610" },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MANCHESTER",
+    "id": "91657"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DAVIS",
+    "id": "91658"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "FRESNO",
+    "id": "91659"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PALM SPRINGS",
+    "id": "91660"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "REDWOOD CITY",
+    "id": "91661"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "LOS ANGELES",
+    "id": "91662"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CHANDLER",
+    "id": "91663"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PHOENIX",
+    "id": "91664"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MASSACHUSETTS",
+    "id": "91665"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "JINEAU",
+    "id": "91666"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "GARTHERSBUNG",
+    "id": "91667"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BALTIMORE",
+    "id": "91668"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ROCKVILLE",
+    "id": "91670"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SILVER SPRIS",
+    "id": "91671"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DES MOINES",
+    "id": "91672"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MCLEAN",
+    "id": "91673"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DENVER",
+    "id": "91674"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SUPERIOR",
+    "id": "91675"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BROOMFIELD",
+    "id": "91676"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "RESTON",
+    "id": "91677"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MCLEAN",
+    "id": "91678"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "VIRGINIA BEACH",
+    "id": "91679"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "RICHMOND",
+    "id": "91680"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CHIGAGO",
+    "id": "91681"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "JOLIET",
+    "id": "91682"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SAN ANTONIO",
+    "id": "91683"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "HOUSTON",
+    "id": "91684"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BEDFORD",
+    "id": "91685"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "FLANDERS",
+    "id": "91686"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SPRINFIELD",
+    "id": "91687"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DOVER",
+    "id": "91688"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "LEVITTOWN",
+    "id": "91689"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ELIZABETH",
+    "id": "91690"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "HOBOKEN",
+    "id": "91691"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "WAYNE",
+    "id": "91692"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "WEST MILFORD",
+    "id": "91693"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MILLTOWN",
+    "id": "91694"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CLIFTON",
+    "id": "91695"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "NASSAIC",
+    "id": "91696"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PATERSON",
+    "id": "91697"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PISCATAWAY",
+    "id": "91698"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "NORTH BERGEN",
+    "id": "91699"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "EAST HANOVER",
+    "id": "916100"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BELLMAWR",
+    "id": "916101"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "CINCINATI",
+    "id": "916102"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "WISCONSIN",
+    "id": "916103"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ATLANTA",
+    "id": "916104"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "SNELLVILLE",
+    "id": "916105"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DULUTH",
+    "id": "916106"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ALPHARETTA",
+    "id": "916107"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "STAMFORD",
+    "id": "916108"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "PAPLEWOOD",
+    "id": "916109"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "RHODE ISLAND",
+    "id": "916110"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MIDDLETTON",
+    "id": "916111"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MADDISON",
+    "id": "916112"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "ST PAUL",
+    "id": "916113"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MINNESOTTA",
+    "id": "916114"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "FAIRFIELD",
+    "id": "916115"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "BURLINGTON",
+    "id": "916116"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "NASSAU",
+    "id": "916117"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "WELLINGTON",
+    "id": "916118"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "MIDDLESEX",
+    "id": "916119"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "LITTLE ROCK",
+    "id": "916120"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "COLUMBIA",
+    "id": "916121"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "DUNCAN",
+    "id": "916122"
+  },
+  {
+    "department": "ESTADOS UNIDOS",
+    "name": "OLNEY",
+    "id": "916123"
+  },
+  { "department": "FRANCIA", "name": "PARIS", "id": "91701" },
+  { "department": "FRANCIA", "name": "CANNES", "id": "91702" },
+  { "department": "FRANCIA", "name": "LE ROI", "id": "91703" },
+  { "department": "FRANCIA", "name": "YVELINES", "id": "91704" },
+  {
+    "department": "FRANCIA",
+    "name": "BASSE TERRE",
+    "id": "91705"
+  },
+  {
+    "department": "GUATEMALA",
+    "name": "GUATEMALA",
+    "id": "91901"
+  },
+  { "department": "ITALIA", "name": "MORBEGNO", "id": "92201" },
+  { "department": "ITALIA", "name": "ROMA", "id": "92202" },
+  { "department": "ITALIA", "name": "PIOLTELLO", "id": "92203" },
+  {
+    "department": "ITALIA",
+    "name": "GORLA MINORE",
+    "id": "92204"
+  },
+  { "department": "ITALIA", "name": "MANTOVA", "id": "92205" },
+  { "department": "ITALIA", "name": "VERONA", "id": "92206" },
+  { "department": "ITALIA", "name": "PADOVA", "id": "92207" },
+  { "department": "ITALIA", "name": "CODROIPO", "id": "92208" },
+  { "department": "KAZAKHSTAN", "name": "ATYRAU", "id": "92301" },
+  { "department": "LITHUANIA", "name": "KUPISKIS", "id": "92401" },
+  { "department": "MÉXICO", "name": "MEXICO DF", "id": "92501" },
+  {
+    "department": "MÉXICO",
+    "name": "BOSQUE DE LAS LOMAS",
+    "id": "92502"
+  },
+  { "department": "NICARAGUA", "name": "MANAGUA", "id": "92601" },
+  {
+    "department": "NORUEGA",
+    "name": "FLEKKEFJORD",
+    "id": "92701"
+  },
+  { "department": "BERMUDAS", "name": "BERMUDA", "id": "92801" },
+  { "department": "OMÁN", "name": "MUSCAT", "id": "93401" },
+  { "department": "HOLANDA", "name": "OUD ALBLAS", "id": "92001" },
+  { "department": "HOLANDA", "name": "SCHIEDAM", "id": "92002" },
+  { "department": "HOLANDA", "name": "UTRECHT", "id": "92003" },
+  { "department": "HOLANDA", "name": "TAMARYN", "id": "92004" },
+  { "department": "HOLANDA", "name": "ORANGESTAD", "id": "92005" },
+  {
+    "department": "PANAMÁ",
+    "name": "CIUDAD DE PANAMA",
+    "id": "92901"
+  },
+  { "department": "PERÚ", "name": "LIMA", "id": "93001" },
+  {
+    "department": "PUERTO RICO",
+    "name": "SAN JUAN",
+    "id": "93101"
+  },
+  { "department": "INGLATERRA", "name": "LONDON", "id": "91801" },
+  { "department": "INGLATERRA", "name": "LOTINAS", "id": "92101" },
+  { "department": "INGLATERRA", "name": "BATB", "id": "92102" },
+  {
+    "department": "REPÚBLICA DOMINICANA",
+    "name": "MOCA",
+    "id": "93301"
+  },
+  {
+    "department": "REPÚBLICA DOMINICANA",
+    "name": "SANTO DOMINGO",
+    "id": "93302"
+  },
+  {
+    "department": "REPÚBLICA DOMINICANA",
+    "name": "SANTIAGO DE LOS CABALLEROS",
+    "id": "93303"
+  },
+  {
+    "department": "REPÚBLICA DOMINICANA",
+    "name": "CABARETE",
+    "id": "93304"
+  },
+  {
+    "department": "REPÚBLICA DOMINICANA",
+    "name": "SOSUA",
+    "id": "93305"
+  },
+  {
+    "department": "REPÚBLICA DOMINICANA",
+    "name": "BONAO",
+    "id": "93306"
+  },
+  { "department": "GABON", "name": "LIBREVILLE", "id": "90101" }
+]
